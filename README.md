@@ -223,4 +223,4 @@ MP3Gain is available as a **full free version** with all features and updates in
 Experience the power of MP3Gain today! Click the download button above and normalize your audio files for a better listening experience!
 
 ---
-**Last updated:** 2026-10-07 22:22:58 UTC
+**Last updated:** 2026-10-08 02:20:47 UTC
